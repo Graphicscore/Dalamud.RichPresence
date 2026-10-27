@@ -54,9 +54,9 @@
       },
       "XivCommon": {
         "type": "Direct",
-        "requested": "[4.0.0-alpha.2, )",
-        "resolved": "4.0.0-alpha.2",
-        "contentHash": "ugdPMg3LKEWDY3DvdcfctjDW8QTaRnXfKJ9gFlY8036LVQ6guOG3grG65EIkIKIhbyg3b2E2ZWOhgeLYEcS00w=="
+        "requested": "[4.0.0, )",
+        "resolved": "4.0.0",
+        "contentHash": "gM8ahhUA3gniqb2TFdXtHwGKyctBuMb1SuiZ36OD9MEqOiQHTnJSlSP6jr+NkGSFaP5OCr21wu//nGOlXCSdqg=="
       },
       "Antlr3.Runtime": {
         "type": "Transitive",
